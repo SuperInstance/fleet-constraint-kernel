@@ -1,5 +1,15 @@
 # fleet-constraint-kernel — GPU Fleet Constraint Evaluator
 
+
+## Meta
+
+**Domain:** constraint-theory
+**Depends on:** —
+**Depended by:** —
+**Implements:** GPU fleet constraint evaluator — sonar beamformer architecture for N×M parallel ...
+**Related:** —
+
+
 Sonar beamformer architecture repurposed for fleet-wide constraint checking.
 
 Evaluates N devices × M constraints in parallel using the same delay-and-sum
